@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @julianokoslowisk
 - 👀 Estou interessado em assuntos de automação de testes
-- 🌱 Estou aprendendo teste autoimatizados android com espresso
+- 🌱 Estou sempre aprendendo sobre o mundo da Qualidade , tanto teóricamente tanto tecnicamente de acordo com o Mercado
 - 💞️ Estou procurando colaborar o máxímo possivel com a comunidade de testes
 - 📫 Como chegar até mim...https://www.linkedin.com/in/juliano-koslowisk-martins-dos-reis-5338a65a/
 
